@@ -432,7 +432,7 @@
     <bool name="config_hasWarpCharger">true</bool>
 
     <!-- Allow automatic adjusting of the screen brightness while dozing in low power state. -->
-    <bool name="config_allowAutoBrightnessWhileDozing">true</bool>
+    <bool name="config_allowAutoBrightnessWhileDozing">false</bool>
 
     <!-- Smart charging -->
     <bool name="config_smartChargingAvailable">true</bool>
